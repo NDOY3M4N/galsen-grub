@@ -1,8 +1,10 @@
 # Pimp my GRUB
 
-![](./assets/pimp-my-grub.png)
+<img src="https://user-images.githubusercontent.com/46305144/185753718-b48f0e74-f289-414d-892b-bb7071f9fcab.png" />
 
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+<p align="center">
+  <img src="https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg" />
+</p>
 
 ## TODO
 
