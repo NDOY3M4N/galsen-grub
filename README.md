@@ -23,6 +23,8 @@ These are properties defined at the top level of our theme file definition. This
 - **component property**  
 They are created by prefixing the type of component with a ’+’ sign: `+ label { text="GRUB" font="aqui 11" color="#8FF" }`
 
+To get a list of all the properties and components available, you can check this [file](./theme-definition-properties.md).
+
 
 ## 📹 Install Grub2-theme-preview
 
