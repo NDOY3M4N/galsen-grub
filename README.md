@@ -8,6 +8,8 @@
 
 In this tutorial, I'll show you how we can change the default appearance of the GRUB.
 
+Wanna see the slides? Check this [link](https://ndoy3m4n.github.io/galsen-grub/).
+
 
 ## 🤔 What is GRUB?
 
@@ -270,5 +272,5 @@ sudo update-grub2
 - [x] Documentation
 - [x] Preview image of the GRUB
 - [x] Resource links
-- [ ] Link to the slides
+- [x] Link to the slides
 - [ ] Make an install script
